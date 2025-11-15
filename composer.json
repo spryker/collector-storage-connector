@@ -8,7 +8,7 @@
         "spryker/collector": "^5.0.0 || ^6.0.0",
         "spryker/kernel": "^3.30.0",
         "spryker/storage": "^3.0.0",
-        "spryker/storage-gui": "^1.0.0"
+        "spryker/storage-gui": "^1.0.0 || ^2.0.0"
     },
     "require-dev": {
         "spryker/code-sniffer": "*"
